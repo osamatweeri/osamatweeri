@@ -5,7 +5,7 @@
 
 🌟 **About Me**
 
-- 🎓 Third-year **Software Engineering student** passionate about building intelligent and impactful software.
+-  **Software Engineering** passionate about building intelligent and impactful software.
 - 💻 Focused on **JavaScript**, **Node.js**, and **React.js** for full-stack development.
 - 🤖 Exploring the world of **Artificial Intelligence** to bring smarter solutions to real-world problems.
 - 🚀 Eager to learn, build, and grow through hands-on projects and collaboration.
