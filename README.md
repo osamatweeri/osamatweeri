@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Osama Tweeri 👋</h1>
+<h1 align="center">Hi, I'm Osama Altwiri 👋</h1>
 <h3 align="center">Software Engineering </h3>
 
 ---
